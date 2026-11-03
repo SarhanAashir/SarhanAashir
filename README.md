@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Muhammad%20Sarhan%20Aashir&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20and%20Platform&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Muhammad%20Sarhan%20Aashir&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20and%20Platform&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
@@ -18,7 +18,27 @@
 
 ### About me
 
-I'm a DevOps engineer with 5+ years of experience building and running cloud-native platforms on AWS and Azure. Most of my work is on Kubernetes, CI/CD and infrastructure as code. I care about systems that are scalable, secure and boring to operate.
+```yaml
+name: Muhammad Sarhan Aashir
+role: Senior DevOps Engineer
+based_in: Karachi, Pakistan
+experience: 5+ years
+education: BSc Computer Science
+clouds: [AWS, Azure, GCP]
+focus:
+  - Kubernetes platforms (EKS, AKS, GKE)
+  - CI/CD from DEV to PROD
+  - Terraform and infrastructure as code
+  - DevSecOps and automation
+  - AI-assisted DevOps with local LLMs
+certifications:
+  - AWS Solutions Architect Associate
+  - Azure Solutions Architect Expert
+  - Azure Administrator Associate
+open_to: [remote, relocation]
+```
+
+**What I work on**
 
 - I run production EKS clusters across multiple AWS accounts, including a shared cluster that serves several countries with header-based routing at the ingress.
 - I have moved legacy deployments to containerised microservices on Kubernetes, which cut release time and manual steps.
@@ -91,6 +111,13 @@ I'm a DevOps engineer with 5+ years of experience building and running cloud-nat
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=SarhanAashir&theme=tokyonight&hide_border=true" alt="streak" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SarhanAashir&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarhanAashir/SarhanAashir/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/SarhanAashir/SarhanAashir/output/github-snake.svg" alt="contribution snake" />
+  </picture>
 </p>
 
 <p align="center">

@@ -89,8 +89,8 @@ I'm a DevOps engineer with 5+ years of experience building and running cloud-nat
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SarhanAashir&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarhanAashir&layout=compact&hide_border=true&theme=tokyonight" alt="languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=SarhanAashir&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SarhanAashir&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">

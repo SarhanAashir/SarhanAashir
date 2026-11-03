@@ -109,8 +109,7 @@ open_to: [remote, relocation]
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=SarhanAashir&theme=tokyonight&hide_border=true" alt="streak" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SarhanAashir&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://raw.githubusercontent.com/SarhanAashir/SarhanAashir/output/stats.svg" alt="contribution stats" />
 </p>
 
 <p align="center">
